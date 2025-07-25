@@ -1,0 +1,7 @@
+2025-07-16 23:44:33  === Outlier bounds log started ===
+2025-07-16 23:44:35  Avaada_Sunrays_GHI              lower = -173.247159  upper = 1041.590747
+2025-07-16 23:44:35  Avaada_Sunrays_MW               lower = -106.024000  upper = 461.576000
+2025-07-16 23:44:35  Eden_GHI                        lower = -177.883604  upper = 1043.892575
+2025-07-16 23:44:35  Eden_MW                         lower = -100.224000  upper = 430.976000
+2025-07-16 23:44:37  Capped data written to: C:\Users\Prabhat\PycharmProjects\PythonProject\RE_Forecast_Interns\IMD_Trial\Final_ready_file\GHI_MW_Compilation_IMD_with_Outliers.xlsx
+2025-07-16 23:44:37  Outlier bounds log completed
